@@ -8,7 +8,7 @@
 
     <properties>
         <jar.final.name>jlookup</jar.final.name>
-        <main.class>com.jlookup.nio.Node</main.class>
+        <main.class>com.jlookup.server.Bootstrap</main.class>
     </properties>
 
     <dependencies>
